@@ -1,4 +1,4 @@
-![Mono](http://www.mono-project.com/images/mono-gorilla.svg) Help
+![Mono](https://www.mono-project.com/images/mono-gorilla.svg) Help
 ====
 
 Need help with Mono? You've come to the right place!
