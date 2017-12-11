@@ -1,7 +1,9 @@
-![Mono](https://www.mono-project.com/images/mono-gorilla.svg) Help
+[Mono](http://www.mono-project.com) Help
 ====
 
 Need help with Mono? You've come to the right place!
+
+This is the help module for [Mono](https://github.com/mono/mono)
 
 ## [Create a new issue](https://github.com/mono/help/issues/new)
 
